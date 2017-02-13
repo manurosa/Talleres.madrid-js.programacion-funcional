@@ -3,7 +3,6 @@
 // 01. Diseña una función recursiva para calcular n!
 // n! se computa como el producto de todos los números
 // naturales desde 1 hasta n.
-
 (function (/* 01. factorial (n) */) {
   var factA = function (n) {
     return n === 0

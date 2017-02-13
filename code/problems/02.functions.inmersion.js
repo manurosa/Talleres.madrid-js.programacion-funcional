@@ -124,6 +124,7 @@
 // de ordenación.
 
 (function (/* 06. sortV (v) */) {
+<<<<<<< HEAD
   var insertV = function (v, e) {
 
   }
@@ -171,6 +172,7 @@
         containsV([1, 2, 3, 4], [1, 3])
     ) // T F F T F T T T F T F F T T T T T F
 })();
+
 
 // Bonus 02. Diseña una función recursiva [parts] que calcule las partes de
 // un conjunto. Las Partes de un conjunto S se definen como el conjunto
